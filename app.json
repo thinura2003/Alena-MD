@@ -1,7 +1,7 @@
 {
   "name": "Alena-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Afx-Abu/Alena-MD",
+  "repository": "https://github.com/thinura2003/Alena-MD",
   "logo": "https://telegra.ph/file/8dcf20551b533dd0739e5.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": {
