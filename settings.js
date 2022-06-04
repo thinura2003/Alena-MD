@@ -12,18 +12,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['917025994178']
-global.premium = ['917025994178']
-global.ownernomer = '917025994178'
-global.ownername = 'Jsl-Abu'
-global.botname = 'Alena-MD'
+global.owner = ['94711421243']
+global.premium = ['94711421243']
+global.ownernomer = '94711421243'
+global.ownername = 'Thinura'
+global.botname = 'Bixby-MD'
 global.footer = '© Alena ™'
 global.ig = 'https://github.com/DGXeon'
 global.region = 'Kerala'
 global.sc = 'https://github.com/Afx-Abu/Alena-MD'
 global.myweb = 'https://instagram.com/jsl_xr'
 global.packname = 'Alena'
-global.author = 'Alena By Abu'
+global.author = 'Bixby  By Thinura'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -35,7 +35,7 @@ global.mess = {
     group: 'ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ᴏɴʟʏ ɢʀᴏᴜᴘ !',
     private: 'ᴛʜɪs ᴡᴏʀᴄᴋ ᴏɴʟʏ ᴘʀɪᴠᴀᴛᴇ !',
     bot: 'ᴛʜɪs ᴡᴏʀᴄᴋ ᴏɴʟʏ ʙᴏᴛ',
-    wait: 'ʟᴏᴀᴅɪɴɢ....',
+    wait: 'ටිකක් ඉම්න....',
     error: 'ᴀᴘɪ ᴋᴇʏ ᴇxᴘɪʀᴇᴅ !',
     endLimit: 'ʏᴏᴜʀ ɢᴇᴛᴇᴅ ғɪʟʏ ʟɪᴍɪᴛ !',
 }
